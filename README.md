@@ -49,7 +49,13 @@ Career Essentials in Generative AI by Microsoft and LinkedIn
 ![Power Query](https://img.shields.io/badge/Power%20Query-%23F2C811.svg?style=for-the-badge&logo=microsoft&logoColor=black)
 
 
-
+### BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-004E8C?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-6C3483?style=for-the-badge)
+![KPI Development](https://img.shields.io/badge/KPI_Development-2E86C1?style=for-the-badge)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Zaki1203&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
