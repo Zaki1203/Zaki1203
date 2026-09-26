@@ -85,6 +85,12 @@ Career Essentials in Generative AI by Microsoft and LinkedIn
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-1A5276?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![UAT](https://img.shields.io/badge/UAT-1F618D?style=for-the-badge)
+![BRD](https://img.shields.io/badge/BRD-7B7D7D?style=for-the-badge)
+![FRD](https://img.shields.io/badge/FRD-616A6B?style=for-the-badge)
+![User Story](https://img.shields.io/badge/User_Story-D35400?style=for-the-badge)
+![AML/KYC](https://img.shields.io/badge/AML%2FKYC-B03A2E?style=for-the-badge)
+
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
