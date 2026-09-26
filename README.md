@@ -1,3 +1,15 @@
+# Hi there, I'm Syed Zaki Ali 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+BI+Analyst+%7C+Power+BI+Developer;Turning+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Tableau+%7C+Excel;Building+Data-Driven+Business+Solutions" alt="Typing SVG" />
+
+</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakiali1203/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedzakiali2002@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/zakgraphs/) 
+
+
 # 💫 About Me:
 I'm a Data analyst who turns raw procurement and transaction data into clear, decision-ready insight.<br><br>At Simfoni, I run spend analytics for 8 client accounts, covering $100M–$145M in procurement spend and 5,000+ monthly transactions. My work follows the full analytics cycle:<br><br>Clean and structure the data. I classify and normalize supplier and transaction records against a standardized taxonomy and correct misclassifications, which improved data quality by 90%.<br><br>
 
@@ -12,10 +24,7 @@ I moved from customer support into analytics in May 2026, so I know how clients 
 Recent projects include a Power BI procurement dashboard that surfaced a 6.8% contract compliance gap, a Python script that automates a daily crypto-movers email report, and a SQL Server analysis of Spotify streaming trends.<br><br>Core skills: Advanced SQL · Power BI · DAX · Power Query · Snowflake · Python (Pandas, NumPy) · Tableau · Azure & Microsoft Fabric · Advanced Excel · Data Warehousing ·Data Pipelines · Stakeholder Management · UAT  · Requirement Gathering · Spend & Procurement Analytics<br><br>Contact<br>📍 Bhopal, India<br>📧 syedzakiali2002@gmail.com<br>📞 +91-7067307095<br>🔗 LinkedIn: linkedin.com/in/zakiali1203<br>💻 GitHub: github.com/Zaki1203
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakiali1203/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedzakiali2002@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/zakgraphs/) 
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
