@@ -12,10 +12,6 @@
 
 # 💫 About Me:
 
-<p align="center">
-  <img src="assets/zaki-name.svg" alt="Zaki" width="500"/>
-</p>
-
 I’m a Data Analyst passionate about turning complex data into actionable insights. Skilled in Power BI, Tableau, SQL, Python, PySpark, Azure, Microsoft Fabric, and Excel, with experience in data wrangling, modeling, pipelines, dashboards, and KPI development.
 
 Currently at Simfoni, I work on procurement spend analysis, data classification and normalization, and interactive dashboards to uncover supplier trends and cost-saving opportunities. Previously at Healthorate, I worked with Python and BeautifulSoup to scrape, clean, and analyze data from multiple sources.
