@@ -11,15 +11,11 @@
 
 
 # 💫 About Me:
-I'm a Data analyst who turns raw procurement and transaction data into clear, decision-ready insight.<br><br>At Simfoni, I run spend analytics for 8 client accounts, covering $100M–$145M in procurement spend and 5,000+ monthly transactions. My work follows the full analytics cycle:<br><br>Clean and structure the data. I classify and normalize supplier and transaction records against a standardized taxonomy and correct misclassifications, which improved data quality by 90%.<br><br>
+I’m a Data Analyst passionate about turning complex data into actionable insights. Skilled in Power BI, Tableau, SQL, Python, PySpark, Azure, Microsoft Fabric, and Excel, with experience in data wrangling, modeling, pipelines, dashboards, and KPI development.
 
-Analyze for patterns. I use SQL, Snowflake, and Python to find spending trends across categories and suppliers, and to size savings opportunities.<br><br>
+Currently at Simfoni, I work on procurement spend analysis, data classification and normalization, and interactive dashboards to uncover supplier trends and cost-saving opportunities. Previously at Healthorate, I worked with Python and BeautifulSoup to scrape, clean, and analyze data from multiple sources.
 
-Visualize and validate. I build and maintain 4 Power BI dashboards on a monthly refresh, and I QA-test the queries and data integrations behind them before anything reaches a client.<br><br>
-
-Communicate the findings. I gather requirements from procurement stakeholders and present results to senior management and non-technical audiences, so the analysis leads to sourcing decisions.<br><br>
-
-I moved from customer support into analytics in May 2026, so I know how clients read and use data. I'm also a Microsoft Certified Fabric Analytics Engineer Associate (DP-600), and I keep building on my own. 
+Beyond data, I enjoy photography, videography, networking, exploring new places, and learning new skills.
 
 Recent projects include a Power BI procurement dashboard that surfaced a 6.8% contract compliance gap, a Python script that automates a daily crypto-movers email report, and a SQL Server analysis of Spotify streaming trends.<br><br>Core skills: Advanced SQL · Power BI · DAX · Power Query · Snowflake · Python (Pandas, NumPy) · Tableau · Azure & Microsoft Fabric · Advanced Excel · Data Warehousing ·Data Pipelines · Stakeholder Management · UAT  · Requirement Gathering · Spend & Procurement Analytics<br><br>Contact<br>📍 Bhopal, India<br>📧 syedzakiali2002@gmail.com<br>📞 +91-7067307095<br>🔗 LinkedIn: linkedin.com/in/zakiali1203<br>💻 GitHub: github.com/Zaki1203
 
