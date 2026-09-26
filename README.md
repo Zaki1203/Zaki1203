@@ -17,10 +17,24 @@ Currently at Simfoni, I work on procurement spend analysis, data classification 
 
 Beyond data, I enjoy photography, videography, networking, exploring new places, and learning new skills.
 
+# Projects
 Recent projects include a Power BI procurement dashboard that surfaced a 6.8% contract compliance gap, a Python script that automates a daily crypto-movers email report, and a SQL Server analysis of Spotify streaming trends.<br><br>Core skills: Advanced SQL · Power BI · DAX · Power Query · Snowflake · Python (Pandas, NumPy) · Tableau · Azure & Microsoft Fabric · Advanced Excel · Data Warehousing ·Data Pipelines · Stakeholder Management · UAT  · Requirement Gathering · Spend & Procurement Analytics<br><br>Contact<br>📍 Bhopal, India<br>📧 syedzakiali2002@gmail.com<br>📞 +91-7067307095<br>🔗 LinkedIn: linkedin.com/in/zakiali1203<br>💻 GitHub: github.com/Zaki1203
 
+# 📜 Certifications
 
+Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) | Microsoft 
 
+Business Analysis A-Z Masterclass | Udemy 
+
+Financial Crime: Processes & Technology Masterclass | Udemy 
+
+SQL (Advanced) Certificate | HackerRank 
+
+Python Essential 1 | Cisco Networking Academy
+
+Advanced Data Analytics | C.R.I.S.P 
+
+Career Essentials in Generative AI by Microsoft and LinkedIn
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
