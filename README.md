@@ -17,8 +17,31 @@ Currently at Simfoni, I work on procurement spend analysis, data classification 
 
 Beyond data, I enjoy photography, videography, networking, exploring new places, and learning new skills.
 
-# Projects
-Recent projects include a Power BI procurement dashboard that surfaced a 6.8% contract compliance gap, a Python script that automates a daily crypto-movers email report, and a SQL Server analysis of Spotify streaming trends.<br><br>Core skills: Advanced SQL · Power BI · DAX · Power Query · Snowflake · Python (Pandas, NumPy) · Tableau · Azure & Microsoft Fabric · Advanced Excel · Data Warehousing ·Data Pipelines · Stakeholder Management · UAT  · Requirement Gathering · Spend & Procurement Analytics<br><br>Contact<br>📍 Bhopal, India<br>📧 syedzakiali2002@gmail.com<br>📞 +91-7067307095<br>🔗 LinkedIn: linkedin.com/in/zakiali1203<br>💻 GitHub: github.com/Zaki1203
+# 🚀 Featured Projects
+
+### [Procurement Spend Analytics Dashboard](https://github.com/Zaki1203/Procurement-Spend-Analytics-Dashboard)
+3-page Power BI dashboard analyzing 950 transactions across 80 suppliers ($71.3M spend), surfacing $1.23M in savings opportunities. Includes PO match-rate tracking, approval cycle analysis, and a star-schema data model with drill-down.
+`Power BI` `Power Query` `DAX`
+
+### [BI Analyst Case Study – CRM, Sales, Inventory & Marketing Insights](https://github.com/Zaki1203/-BI-Analyst-Case-Study-CRM-Sales-Inventory-Marketing-Insights)
+End-to-end BI case study covering CRM, sales, inventory, and marketing data to derive actionable business insights.
+`Power BI` `Data Analysis`
+
+### [Real-Time Cryptocurrency Insights & Email Automation](https://github.com/Zaki1203/Real-Time-Cryptocurrency-Insights-Email-Automation)
+Python script using the CoinGecko API to rank top 10 gainers and bottom 10 decliners daily, saving a timestamped CSV and auto-emailing results at 8:00 AM, with built-in API-failure handling.
+`Python` `Pandas` `Requests` `Smtplib`
+
+### [Spotify Streaming Trends Analysis](https://github.com/Zaki1203/Spotify-Project-Using-SQL)
+SQL Server analysis of Spotify streaming data using window functions, subqueries, and CTEs — surfaced *VIDA* as the top album with 16.2B views.
+`SQL Server`
+
+### [Human Resource Dashboard Overview](https://github.com/Zaki1203/Human-Resource-Dashboard-Overview)
+HR analytics dashboard providing an overview of workforce metrics and trends.
+`Power BI` `Data Visualization`
+
+### [Diwali Sales Analysis](https://github.com/Zaki1203/Diwali-Sales-Project-using-Python)
+Python-based analysis of Diwali sales data to uncover purchasing patterns and trends.
+`Python` `Pandas` `Matplotlib`
 
 # 📜 Certifications
 
