@@ -8,7 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakiali1203/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedzakiali2002@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/zakgraphs/) 
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Zaki1203)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--XXXXXXXXXX-25D366.svg?logo=whatsapp&logoColor=white)](tel:+917067307095)
 
 # 💫 About Me:
 I’m a Data Analyst passionate about turning complex data into actionable insights. Skilled in Power BI, Tableau, SQL, Python, PySpark, Azure, Microsoft Fabric, and Excel, with experience in data wrangling, modeling, pipelines, dashboards, and KPI development.
