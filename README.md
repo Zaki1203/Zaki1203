@@ -48,14 +48,46 @@ Career Essentials in Generative AI by Microsoft and LinkedIn
 ![DAX](https://img.shields.io/badge/DAX-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-%23F2C811.svg?style=for-the-badge&logo=microsoft&logoColor=black)
 
-
-### BI & Visualization
+## BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-004E8C?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-6C3483?style=for-the-badge)
 ![KPI Development](https://img.shields.io/badge/KPI_Development-2E86C1?style=for-the-badge)
+
+## Data & Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-4A235A?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-1B4F72?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-117864?style=for-the-badge)
+
+## Cloud & Data Engineering
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-2E7D32?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-707B7C?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+## Programming & Analytics
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## Business Analytics
+![Spend Analytics](https://img.shields.io/badge/Spend_Analytics-7D3C98?style=for-the-badge)
+![Procurement Analytics](https://img.shields.io/badge/Procurement_Analytics-9C640C?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-283747?style=for-the-badge)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-1A5276?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Zaki1203&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
